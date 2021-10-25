@@ -1,5 +1,5 @@
 # :wave: Hello!
-- my name is Malika Kassen-Lao 
+- 👩 my name is Malika Kassen-Lao 
 - :computer: I am a software development apprentice 
 
 
