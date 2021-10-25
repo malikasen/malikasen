@@ -1,5 +1,6 @@
-# :wave: Hello, my name is Malika Kassen-Lao 
-# :computer: I am a software development apprentice 
+# :wave: Hello!
+- my name is Malika Kassen-Lao 
+- :computer: I am a software development apprentice 
 
 
 <a href="https://github.com/shaylan7/github-readme-stats">
