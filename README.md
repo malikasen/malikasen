@@ -1,11 +1,8 @@
 # :wave: Hello!
-- 👩 my name is Malika Kassen-Lao 
+- My name is Malika Kassen-Lao 
 - :computer: I am a software development apprentice 
+- [![Linkedin Badge](https://img.shields.io/badge/-malika_kassen-lao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malika-kassen-lao/)](https://www.linkedin.com/in/malika-kassen-lao/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikasen&show_icons=true&theme=radical)](https://github.com/malikasen/github-readme-stats)
 
-<a href="https://github.com/shaylan7/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=malikasen&layout=compact&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/shaylan7/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikasen&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malikasen&layout=compact&show_icons=true&theme=radical)](https://github.com/malikasen/github-readme-stats)
