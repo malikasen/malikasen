@@ -1,5 +1,4 @@
 # :wave: Hello!
-- My name is Malika Kassen-Lao 
 - :computer: I am a software development apprentice 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/malika-kassen-lao)
 &nbsp;
