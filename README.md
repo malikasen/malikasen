@@ -1,5 +1,5 @@
 # :wave: Hello!
-- :computer: I am a software development apprentice 
+- :computer: I am a software engineer
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/malika-kassen-lao)
 &nbsp;
 
